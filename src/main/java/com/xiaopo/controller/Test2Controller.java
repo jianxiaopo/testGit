@@ -1,8 +1,8 @@
 package com.xiaopo.controller;
 
-public class Dev2Controller {
+public class Test2Controller {
     public static void main(String[] args) {
-        System.out.println("dev2");
+        System.out.println("test2");
         System.out.println("new dev-02");
     }
 }
