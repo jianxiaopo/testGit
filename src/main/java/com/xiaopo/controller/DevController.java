@@ -5,6 +5,5 @@ public class DevController {
         System.out.println("dev");
         System.out.println("01");
         System.out.println("02");
-        System.out.println("02");
     }
 }
